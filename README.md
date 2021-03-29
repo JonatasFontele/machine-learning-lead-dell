@@ -9,28 +9,22 @@
 
 O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machine Learning) e saber como utilizá-las, construindo modelos que extraem informação a partir de dados dos mais diferentes tipos.
 
-# Conteúdo Programático
+> ## Conteúdo Programático
 
-1. Introdução a machine learning
+* 1.Introdução a machine learning
+  * Descrever fundamentos e conceitos de Aprendizado de Máquina, tais como as diferentes tarefas sobre dados.rn
 
-Descrever fundamentos e conceitos de Aprendizado de Máquina, tais como as diferentes tarefas sobre dados.rn
+* 2.Modelos de aprendizado de máquina
+  * Descrever os principais modelos de Aprendizado de Máquina, tais como a sua utilidade diante de diversos tipos de dados.
 
-2. Modelos de aprendizado de máquina
+* 3.Clusterização e modelos
+  * Definir o conceito e o algoritmo de clusterização e K-Means.
 
-Descrever os principais modelos de Aprendizado de Máquina, tais como a sua utilidade diante de diversos tipos de dados.
+* 4.Avaliação de modelos
+  * Aprender técnicas de como avaliar um modelo segundo os conceitos de underfitting e overfitting.
 
-3. Clusterização e modelos
+* 5.Introdução às redes neurais
+  * Descrever as principais arquiteturas de Redes Neurais, tal como a sua implementação a partir do TensorFlow.rn
 
-Definir o conceito e o algoritmo de clusterização e K-Means.
-
-4. Avaliação de modelos
-
-Aprender técnicas de como avaliar um modelo segundo os conceitos de underfitting e overfitting.
-
-5. Introdução às redes neurais
-
-descrever as principais arquiteturas de Redes Neurais, tal como a sua implementação a partir do TensorFlow.rn
-
-6. Tópicos avançados
-
-Estudar modelos e análises mais avançadas em Aprendizado de Máquina.
+* 6.Tópicos avançados
+  * Estudar modelos e análises mais avançadas em Aprendizado de Máquina.
