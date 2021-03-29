@@ -5,4 +5,32 @@
 
 [![alt text](http://leadfortaleza.com.br/dal/wp-content/uploads/2020/08/Machine-Learning_Prancheta-1-c%C3%B3pia-3-e1598014150469.png "Link para o curso")](http://leadfortaleza.com.br/dal/?cp_cursos=/machine-learning/)
 
-Curso de Machine Learning da Dell LEAD
+## [**Curso de Machine Learning da Dell LEAD**](http://leadfortaleza.com.br/dal/?cp_cursos=/machine-learning/)
+
+O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machine Learning) e saber como utilizá-las, construindo modelos que extraem informação a partir de dados dos mais diferentes tipos.
+
+# Conteúdo Programático
+
+1. Introdução a machine learning
+
+Descrever fundamentos e conceitos de Aprendizado de Máquina, tais como as diferentes tarefas sobre dados.rn
+
+2. Modelos de aprendizado de máquina
+
+Descrever os principais modelos de Aprendizado de Máquina, tais como a sua utilidade diante de diversos tipos de dados.
+
+3. Clusterização e modelos
+
+Definir o conceito e o algoritmo de clusterização e K-Means.
+
+4. Avaliação de modelos
+
+Aprender técnicas de como avaliar um modelo segundo os conceitos de underfitting e overfitting.
+
+5. Introdução às redes neurais
+
+descrever as principais arquiteturas de Redes Neurais, tal como a sua implementação a partir do TensorFlow.rn
+
+6. Tópicos avançados
+
+Estudar modelos e análises mais avançadas em Aprendizado de Máquina.
