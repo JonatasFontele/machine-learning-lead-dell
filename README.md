@@ -16,6 +16,13 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
     * Demonstração da leitura de arquivos em modo texto.
     * Demonstração da tabela e informações básicas.
   * Análise Estatística de um Conjunto de Dados.
+    * Demonstração das estatísticas do conjunto de dados.
+    * Demonstração da manipulação de linhas e colunas.
+  * Análise e Visualização de um Conjunto de Dados.
+    * Demonstração do balanceamento dos dados.
+    * Demonstração da visualização de gráficos.
+    * Finalização da demonstração da funcionalidade básica de um notebook Jupyter.
+
 > ## Conteúdo Programático
 
 * 1.Introdução a machine learning
