@@ -5,9 +5,9 @@
 
 [![alt text](http://leadfortaleza.com.br/dal/wp-content/uploads/2020/08/Machine-Learning_Prancheta-1-c%C3%B3pia-3-e1598014150469.png "Link para o curso")](http://leadfortaleza.com.br/dal/?cp_cursos=/machine-learning/)
 
-## [**Curso de Machine Learning da Dell LEAD**](http://leadfortaleza.com.br/dal/?cp_cursos=/machine-learning/)
+## [**Curso de Machine Learning da LEAD ![Dell Badge](https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=Dell&logoColor=white)**](http://leadfortaleza.com.br/dal/?cp_cursos=/machine-learning/)
 
-O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machine Learning) e saber como utilizá-las, construindo modelos que extraem informação a partir de dados dos mais diferentes tipos.
+O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machine Learning) e saber como utilizá-las, construindo modelos que extraem informação a partir de dados dos mais diferentes tipos. Foi utilizado [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/)
 
 > ## Conteúdo Programático
 
@@ -24,7 +24,6 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
   * Aprender técnicas de como avaliar um modelo segundo os conceitos de underfitting e overfitting.
 
 * 5.Introdução às redes neurais
-  * Descrever as principais arquiteturas de Redes Neurais, tal como a sua implementação a partir do TensorFlow.rn
-
+  * Descrever as principais arquiteturas de Redes Neurais, tal como a sua implementação a partir do [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white&link=https://www.tensorflow.org/)](https://www.java.com/https://www.tensorflow.org/)
 * 6.Tópicos avançados
   * Estudar modelos e análises mais avançadas em Aprendizado de Máquina.
