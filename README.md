@@ -24,6 +24,6 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
   * Aprender técnicas de como avaliar um modelo segundo os conceitos de underfitting e overfitting.
 
 * 5.Introdução às redes neurais
-  * Descrever as principais arquiteturas de Redes Neurais, tal como a sua implementação a partir do [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white&link=https://www.tensorflow.org/)](https://www.java.com/https://www.tensorflow.org/)
+  * Descrever as principais arquiteturas de Redes Neurais, tal como a sua implementação a partir do [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white&link=https://www.tensorflow.org/)](https://www.java.com/https://www.tensorflow.org/).rn
 * 6.Tópicos avançados
   * Estudar modelos e análises mais avançadas em Aprendizado de Máquina.
