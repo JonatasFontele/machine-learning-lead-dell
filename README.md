@@ -10,7 +10,6 @@
 O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machine Learning) e saber como utilizá-las, construindo modelos que extraem informação a partir de dados dos mais diferentes tipos. Foi utilizado [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/).
 
 > ## ipynb
-> 
 * fruit_data_with_colors_analise.ipynb
   * Introdução à Análise de Dados com Python.
     * Demonstração da leitura de arquivos em modo texto.
