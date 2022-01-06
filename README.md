@@ -3,7 +3,7 @@
 
 # **Machine Learning**
 
-[![alt text](http://leadfortaleza.com.br/dal/wp-content/uploads/2020/08/Machine-Learning_Prancheta-1-c%C3%B3pia-3-e1598014150469.png "Link para o curso")](http://leadfortaleza.com.br/dal/?cp_cursos=/machine-learning/)
+[![alt text](https://cdn.leadfortaleza.com.br/portal/dal/gallery/intro-machine-learning.svg "Link para o curso")](http://leadfortaleza.com.br/dal/?cp_cursos=/machine-learning/)
 
 ## [**Curso de Machine Learning da LEAD ![Dell Badge](https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=Dell&logoColor=white)**](http://leadfortaleza.com.br/dal/?cp_cursos=/machine-learning/)
 
