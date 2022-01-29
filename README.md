@@ -21,7 +21,18 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
     * Demonstração do balanceamento dos dados.
     * Demonstração da visualização de gráficos.
     * Finalização da demonstração da funcionalidade básica de um notebook Jupyter.
-
+* [fruit_data_with_colors_miss_analise.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_miss_analise.ipynb)
+  * Introdução ao Pré-processamento de Dados com Python.
+    * Demonstração da leitura de arquivos em modo texto com valores faltantes (missing values).
+    * Demonstração da tabela e informações básicas com valores faltantes.
+  * Imputando Valores Faltantes.
+    * Tratar os dados de modo que os valores faltantes passem a não existirem.
+  * Eliminação de Colunas.
+    * Demonstração de eliminação de coluna quando a imputação de dados se mostrar ineficiente por serem muitos dados faltantes.
+  * Transformando a escala dos dados.
+    * Transformar a escala dos dados para deixar os dados com importâncias iguais.
+  * Encontrando outliers
+    * Demonstrar como encontrar os dados discrepantes, elementos que possuem uma de suas características fora de um padrão.
 > ## Conteúdo Programático
 
 * 1.Introdução a machine learning
