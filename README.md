@@ -33,6 +33,12 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
     * Transformar a escala dos dados para deixar os dados com importâncias iguais.
   * Encontrando outliers
     * Demonstrar como encontrar os dados discrepantes, elementos que possuem uma de suas características fora de um padrão.
+* [regressao_para_prever_venda_sorvetes.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/regressao_para_prever_venda_sorvetes.ipynb)
+  * Introdução a Regressão.
+    * Criação de um DataFrame com arrays do numpy.
+    * Demonstração de separação de variável independente e variável dependente.
+    * Demonstração de treinamento de modelo usando regressão linear.
+    * Demonstração e plot de previsão.
 > ## Conteúdo Programático
 
 * 1.Introdução a machine learning
