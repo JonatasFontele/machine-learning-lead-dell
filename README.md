@@ -39,6 +39,12 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
     * Demonstração de separação de variável independente e variável dependente.
     * Demonstração de treinamento de modelo usando regressão linear.
     * Demonstração e plot de previsão.
+* [fruit_data_with_colors_KNN.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_KNN.ipynb)
+  * Introdução ao KNN.
+    * Exemplificar a distância Euclidiana.
+    * Demonstração do KNN para classificação.
+    * Demonstração de pré-processamento de dados para o KNN.
+    * Demonstração do KNN para regressão.
 > ## Conteúdo Programático
 
 * 1.Introdução a machine learning
