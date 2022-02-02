@@ -39,7 +39,7 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
     * Demonstração de separação de variável independente e variável dependente.
     * Demonstração de treinamento de modelo usando regressão linear.
     * Demonstração e plot de previsão.
-* regressao_linear_multipla.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_KNN.ipynb)
+* [regressao_linear_multipla.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_KNN.ipynb)
   * Introdução ao KNN.
 * [fruit_data_with_colors_KNN.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_KNN.ipynb)
   * Regressão Linear Múltipla.
