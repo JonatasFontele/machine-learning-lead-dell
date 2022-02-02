@@ -39,12 +39,11 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
     * Demonstração de separação de variável independente e variável dependente.
     * Demonstração de treinamento de modelo usando regressão linear.
     * Demonstração e plot de previsão.
-* [fruit_data_with_colors_KNN.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_KNN.ipynb)
+* regressao_linear_multipla.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_KNN.ipynb)
   * Introdução ao KNN.
-    * Exemplificar a distância Euclidiana.
-    * Demonstração do KNN para classificação.
-    * Demonstração de pré-processamento de dados para o KNN.
-    * Demonstração do KNN para regressão.
+* [fruit_data_with_colors_KNN.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_KNN.ipynb)
+  * Regressão Linear Múltipla.
+    * Utilizar a biblioteca scikit-learn para construir um modelo de previsão de preço, usando regressão linear múltipla. Para isso será utilizado um conjunto de dados de carros usados listados pelo site www.cardekho.com e disponível em https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho e adaptado neste notebook.
 > ## Conteúdo Programático
 
 * 1.Introdução a machine learning
