@@ -50,10 +50,8 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
     * Demonstração do KNN para regressão usando load_boston.
 * [arvore_de_decisao.ipynb]()
   * Introdução às árvores de decisão.
-    * A.
-    * B.
-    * C.
-    * D.
+    * Implementando as árvores de decisão.
+    * Selecionando features com árvores de decisão.
 
 > ## Conteúdo Programático
 
