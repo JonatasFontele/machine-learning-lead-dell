@@ -48,7 +48,7 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
     * Demonstração do KNN para classificação usando fruit_data_with_colors.
     * Demonstração de pré-processamento de dados para o KNN.
     * Demonstração do KNN para regressão usando load_boston.
-* [arvore_de_decisao.ipynb]()
+* [arvore_de_decisao.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_KNN_%26_boston_house_prices_KNN.ipynb)
   * Introdução às árvores de decisão.
     * Implementando as árvores de decisão.
     * Selecionando features com árvores de decisão.
