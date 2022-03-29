@@ -42,7 +42,7 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
 * [car_data_regressao_linear_multipla.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/car_data_regressao_linear_multipla.ipynb)
   * Regressão Linear Múltipla.
     * Utilizar a biblioteca scikit-learn para construir um modelo de previsão de preço, usando regressão linear múltipla. Para isso será utilizado um conjunto de dados de carros usados listados pelo site www.cardekho.com e disponível em https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho e adaptado neste notebook.
-* [fruit_data_with_colors_KNN_&amp;_boston_house_prices_KNN.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_KNN_%26_boston_house_prices_KNN.ipynb)
+* [fruit_data_with_colors_KNN_&lt;_boston_house_prices_KNN.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_KNN_%26_boston_house_prices_KNN.ipynb)
   * Introdução ao KNN.
     * Exemplificar a distância Euclidiana.
     * Demonstração do KNN para classificação usando fruit_data_with_colors.
